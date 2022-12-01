@@ -1,5 +1,5 @@
 - 👋 Hi, I’m isa
-- 👀 I’m interested in Frontend development technologies (ReactJs, Redux and Bootstrap) and Linux distros, Container technologies and Docker.
+- 👀 I’m interested in Frontend development technologies (ReactJs, Redux and Bootstrap) and Linux distros, container technologies and Docker.
 - 🌱 I’m currently learning ReactJs and Redux.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/isakli05/)
