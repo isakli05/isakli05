@@ -81,5 +81,5 @@ A side project built with **Go (backend)** and **React (frontend)**, featuring:
 
 ## 📫 Contact
 
-**LinkedIn:** https://www.linkedin.com/in/isakli05/  
+**LinkedIn:** https://www.linkedin.com/in/isa-kaya-187653171  
 **Email:** isakaya709@gmail.com
